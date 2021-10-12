@@ -1,1 +1,1 @@
-console.log("test checkout script")
+console.log("test checkout script");
