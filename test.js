@@ -1,1 +1,1 @@
-console.log("test checkout script");
+$("#checkout_1000").html('.')
